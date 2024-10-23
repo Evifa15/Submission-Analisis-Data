@@ -1,4 +1,4 @@
-# Bike Rental Data Analysis 🚴‍♂️
+# Submission Data Analysis - Bike Rental 🚴‍♂️
 
 This project conducts an analysis of bike rental data using Python, primarily leveraging libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
@@ -17,8 +17,5 @@ This project involves processing and analyzing data from two datasets: `day.csv`
 
 ## Environment Setup
 
-Make sure to install all required dependencies. Use the following command:
 
-```bash
-pip install -r requirements.txt
 
