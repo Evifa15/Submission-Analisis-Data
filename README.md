@@ -11,38 +11,20 @@ This project involves processing and analyzing data to understand patterns and t
 - SciPy
 - Google Collab
 ## Environment Setup
-1. Clone the Repository
-```
-git clone https://github.com/your-username/your-repo-name.git
-```
-2. Dataset
+Dataset
 ```
 - data/
     - day.csv
     - hour.csv
 ```
-3. Mount Google Drive
-```
-from google.colab import drive
-drive.mount('/content/drive')
-```
-4. Install Streamlit
-```
-!pip install streamlit -q
-```
-5. Run Streamlit
-```
-!wget -q -O - ipv4.icanhazip.com
-!streamlit run Dashboard.py & npx localtunnel --port 8501
-```
 ## Project Structure
 |-- dashboard/
     |-- Dashboard.py
-    |-- hasil_analisis.csv
 |-- data/
     |-- day.csv
     |-- hour.csv
-|-- ProyekAnalisisData.ipynb
+    |-- README.txt
+|-- DataAnalystSubmission.ipynb
 |-- README.md
 |-- requirements.txt
 ## Analysis Workflow
@@ -59,8 +41,4 @@ EDA helps in understanding the underlying patterns, trends, and relationships in
 Visualization is key to revealing insights that may not be immediately obvious from raw data.
 Bar Charts: Display categorical data comparisons, such as bike rentals by season or day of the week.
 Explanatory analysis dives deeper into why certain patterns are emerging from the data.
-## Results & Insights
-Summarize key findings:
-- Patterns in rental behavior (seasonal, hourly, weather-dependent).
-- Impacts of holidays and weekends on rentals.
-- Any anomalies or unexpected trends.
+
