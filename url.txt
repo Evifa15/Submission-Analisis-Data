@@ -1,4 +1,3 @@
 # Project Repository
 https://github.com/evifa15/Submission
-https://share.streamlit.io/
 http://localhost:8502/
