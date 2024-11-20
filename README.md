@@ -22,23 +22,14 @@ Dataset
 ```
 
 ## Project Structure
-
 |-- dashboard/
-
     |-- Dashboard.py
-    
 |-- data/
-
     |-- day.csv
-    
     |-- hour.csv
-    
-    |-- README.txt
-    
+    |-- Readme.txt
 |-- DataAnalystSubmission.ipynb
-
 |-- README.md
-
 |-- requirements.txt
 
 ## Analysis Workflow
