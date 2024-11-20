@@ -22,6 +22,7 @@ Dataset
 ```
 
 ## Project Structure
+```
 |-- dashboard/
     |-- Dashboard.py
 |-- data/
@@ -31,7 +32,7 @@ Dataset
 |-- DataAnalystSubmission.ipynb
 |-- README.md
 |-- requirements.txt
-
+```
 ## Analysis Workflow
 The workflow of the project can be divided into the following steps:
 1. Data Loading
