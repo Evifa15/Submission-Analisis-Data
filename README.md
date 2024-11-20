@@ -12,7 +12,7 @@ This project involves processing and analyzing data to understand patterns and t
 - Seaborn
 - SciPy
 - Google Collab
-- 
+  
 ## Environment Setup
 Dataset
 ```
