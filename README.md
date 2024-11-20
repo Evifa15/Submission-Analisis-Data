@@ -1,7 +1,9 @@
 # Submission Data Analysis - Bike Rental 🚴‍♂️
 This project conducts an analysis of bike rental data using Python, leveraging libraries such as Pandas, NumPy, Matplotlib, Seaborn, and SciPy to explore trends and insights from two datasets: day.csv and hour.csv.
+
 ## Project Description
 This project involves processing and analyzing data to understand patterns and trends in bike rentals, including the effects of seasonality, weather conditions, and holidays on rental numbers.
+
 ## Technologies Used
 - Python
 - Pandas
@@ -10,6 +12,7 @@ This project involves processing and analyzing data to understand patterns and t
 - Seaborn
 - SciPy
 - Google Collab
+- 
 ## Environment Setup
 Dataset
 ```
@@ -17,7 +20,9 @@ Dataset
     - day.csv
     - hour.csv
 ```
+
 ## Project Structure
+
 |-- dashboard/
     |-- Dashboard.py
 |-- data/
@@ -27,6 +32,7 @@ Dataset
 |-- DataAnalystSubmission.ipynb
 |-- README.md
 |-- requirements.txt
+
 ## Analysis Workflow
 The workflow of the project can be divided into the following steps:
 1. Data Loading
