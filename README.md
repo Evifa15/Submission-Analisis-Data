@@ -20,8 +20,21 @@ Dataset
     - day.csv
     - hour.csv
 ```
+Google Collab
 ```
-
+!pip install pandas numpy matplotlib seaborn scipy
+```
+Shell/Terminal
+```
+cd C:\Submission\Dashboard
+pipenv install
+pipenv shell
+pip install -r requirements.txt
+```
+Run Streamlit app
+```
+streamlit run dashboardfinalproject.py
+```
 ## Project Structure
 ```
 |-- dashboard/
@@ -48,4 +61,7 @@ EDA helps in understanding the underlying patterns, trends, and relationships in
 Visualization is key to revealing insights that may not be immediately obvious from raw data.
 Bar Charts: Display categorical data comparisons, such as bike rentals by season or day of the week.
 Explanatory analysis dives deeper into why certain patterns are emerging from the data.
+5. Insight
+Insights help synthesize findings from each step, revealing actionable results or key takeaways from the analysis.
+
 
